@@ -22,7 +22,7 @@ Email Me 👉 ✉️ **sagarkumar10082@gmail.com** For Collaboration/Project or 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
+<h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
